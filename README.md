@@ -76,12 +76,12 @@ Used MySQL workbench for Storage purpose.
 ## Screenshots
 - Login:
 
-<img src = "src/main/java/com/springmvc/screenshots/Login.png">
+<img src = "screenshots/Login.png">
 
 - Register
 
-<img src = "src/main/java/com/springmvc/screenshots/Register.png">
+<img src = "screenshots/Register.png">
 
 - Home
 
-<img src = "src/main/java/com/springmvc/screenshots/Home.png">
+<img src = "screenshots/Home.png">
